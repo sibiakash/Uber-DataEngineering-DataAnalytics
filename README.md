@@ -26,15 +26,6 @@ The project aims to perfrom data analytics on uber data set using various tools 
 
 The fiels in the data set captures  pick-up and drop-off locations, pick-up and drop-off dates/times, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-
 ## Flow
 
 1)The uber data-set was uploaded to google cloud storage.
